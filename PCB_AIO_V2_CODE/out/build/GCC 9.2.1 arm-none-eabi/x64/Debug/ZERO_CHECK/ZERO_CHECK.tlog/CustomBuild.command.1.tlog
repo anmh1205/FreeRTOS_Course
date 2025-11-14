@@ -1,0 +1,10 @@
+^E:\1. PHENIKAA UNIVERSITY\AML\0. PROJECT\. OTHER\FREERTOS_COURSE\PCB_AIO_V2_CODE\OUT\BUILD\GCC 9.2.1 ARM-NONE-EABI\CMAKEFILES\8463844BCF58DA4584CB0642E3E79DF6\GENERATE.STAMP.RULE
+setlocal
+C:\Users\anmh1\AppData\Local\stm32cube\bundles\cmake\4.0.1+st.3\bin\cmake.exe "-SE:/1. Phenikaa University/AML/0. Project/. Other/FreeRTOS_Course/PCB_AIO_V2_CODE" "-BE:/1. Phenikaa University/AML/0. Project/. Other/FreeRTOS_Course/PCB_AIO_V2_CODE/out/build/GCC 9.2.1 arm-none-eabi" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/1. Phenikaa University/AML/0. Project/. Other/FreeRTOS_Course/PCB_AIO_V2_CODE/out/build/GCC 9.2.1 arm-none-eabi/PCB_AIO_V2_CODE.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

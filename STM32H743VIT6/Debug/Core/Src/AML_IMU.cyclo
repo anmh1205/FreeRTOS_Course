@@ -1,0 +1,6 @@
+../Core/Src/AML_IMU.c:27:6:HAL_UART_TxHalfCpltCallback	1
+../Core/Src/AML_IMU.c:36:6:AML_MPUSensor_ResetAngle	1
+../Core/Src/AML_IMU.c:54:6:AML_MPUSensor_Setup	1
+../Core/Src/AML_IMU.c:62:6:handle	2
+../Core/Src/AML_IMU.c:72:6:HAL_UART_RxCpltCallback	5
+../Core/Src/AML_IMU.c:99:8:AML_MPUSensor_GetAngle	1

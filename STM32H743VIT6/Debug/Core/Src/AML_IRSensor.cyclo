@@ -1,0 +1,9 @@
+../Core/Src/AML_IRSensor.c:49:6:AML_IRSensor_Setup	1
+../Core/Src/AML_IRSensor.c:57:6:HAL_ADC_ConvCpltCallback	4
+../Core/Src/AML_IRSensor.c:81:8:AML_IRSensor_GetDistance	1
+../Core/Src/AML_IRSensor.c:88:6:AML_IRSensor_IsFrontWall	1
+../Core/Src/AML_IRSensor.c:93:6:AML_IRSensor_IsLeftWall	1
+../Core/Src/AML_IRSensor.c:98:6:AML_IRSensor_IsRightWall	1
+../Core/Src/AML_IRSensor.c:103:6:AML_IRSensor_IsNoFrontWall	1
+../Core/Src/AML_IRSensor.c:108:6:AML_IRSensor_IsNoLeftWall	1
+../Core/Src/AML_IRSensor.c:113:6:AML_IRSensor_IsNoRightWall	1

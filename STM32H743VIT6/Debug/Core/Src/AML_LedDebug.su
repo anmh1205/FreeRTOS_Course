@@ -1,0 +1,7 @@
+../Core/Src/AML_LedDebug.c:24:6:AML_LedDebug_TurnOnLED	16	static
+../Core/Src/AML_LedDebug.c:29:6:AML_LedDebug_TurnOffLED	16	static
+../Core/Src/AML_LedDebug.c:34:6:AML_LedDebug_ToggleLED	16	static
+../Core/Src/AML_LedDebug.c:39:6:AML_LedDebug_SetLED	16	static
+../Core/Src/AML_LedDebug.c:44:6:AML_LedDebug_SetAllLED	16	static
+../Core/Src/AML_LedDebug.c:52:6:AML_LedDebug_ToggleAllLED	8	static
+../Core/Src/AML_LedDebug.c:60:6:AML_LedDebug_SetOnlyOneLED	16	static

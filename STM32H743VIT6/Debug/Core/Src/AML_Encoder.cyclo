@@ -1,0 +1,5 @@
+../Core/Src/AML_Encoder.c:6:6:AML_Encoder_Setup	1
+../Core/Src/AML_Encoder.c:12:9:AML_Encoder_GetLeftValue	1
+../Core/Src/AML_Encoder.c:17:6:AML_Encoder_ResetLeftValue	1
+../Core/Src/AML_Encoder.c:22:9:AML_Encoder_GetRightValue	1
+../Core/Src/AML_Encoder.c:27:6:AML_Encoder_ResetRightValue	1

@@ -1,0 +1,6 @@
+../Core/Src/AML_Buzzer.c:32:6:AML_Buzzer_Setup	8	static
+../Core/Src/AML_Buzzer.c:37:6:AML_Buzzer_TurnOff	8	static
+../Core/Src/AML_Buzzer.c:51:6:AML_Buzzer_PlaySong	16	static
+../Core/Src/AML_Buzzer.c:63:6:AML_Buzzer_PlayNote	24	static
+../Core/Src/AML_Buzzer.c:102:6:AML_Buzzer_PlayNoteInSong	24	static
+../Core/Src/AML_Buzzer.c:132:6:AML_Buzzer_Beep	8	static

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\stm32h7xx_it.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\stm32h7xx_hal_msp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\sysmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\syscalls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_Buzzer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_Encoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_GlobalVariable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_IMU.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_IRSensor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_LedDebug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_MotorControl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_PID.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\AML_Switch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\solver.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\system_stm32h7xx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\startup_stm32h743xx.s" />
+    <None Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Startup\startup_stm32h743vitx.s" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\system_stm32h7xx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_adc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_adc_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_rcc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_rcc_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_flash.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_flash_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_gpio.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_hsem.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_dma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_dma_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_mdma.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_pwr.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_pwr_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_cortex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_i2c.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_i2c_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_exti.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_tim.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_tim_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_uart.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\out\build\GCC 9.2.1 arm-none-eabi\cmake\stm32cubemx\STM32_Drivers.dir\$(Configuration)\stm32h7xx_hal_uart_ex.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{085A05A9-8A3A-32DC-A389-1426BDB81567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C96E2359-A972-3689-B491-43BC5E6A2D1D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

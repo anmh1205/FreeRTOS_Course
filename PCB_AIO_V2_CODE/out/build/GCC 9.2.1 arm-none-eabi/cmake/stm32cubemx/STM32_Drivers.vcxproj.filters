@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Core\Src\system_stm32h7xx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_adc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_adc_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_flash_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_gpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_hsem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_mdma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_i2c_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_exti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_tim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_tim_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_uart_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\1. Phenikaa University\AML\0. Project\. Other\FreeRTOS_Course\PCB_AIO_V2_CODE\cmake\stm32cubemx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C96E2359-A972-3689-B491-43BC5E6A2D1D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

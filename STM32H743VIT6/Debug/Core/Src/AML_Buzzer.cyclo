@@ -1,0 +1,6 @@
+../Core/Src/AML_Buzzer.c:32:6:AML_Buzzer_Setup	1
+../Core/Src/AML_Buzzer.c:37:6:AML_Buzzer_TurnOff	1
+../Core/Src/AML_Buzzer.c:51:6:AML_Buzzer_PlaySong	2
+../Core/Src/AML_Buzzer.c:63:6:AML_Buzzer_PlayNote	3
+../Core/Src/AML_Buzzer.c:102:6:AML_Buzzer_PlayNoteInSong	3
+../Core/Src/AML_Buzzer.c:132:6:AML_Buzzer_Beep	1

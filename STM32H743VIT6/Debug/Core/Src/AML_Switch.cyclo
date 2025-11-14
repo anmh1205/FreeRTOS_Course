@@ -1,0 +1,5 @@
+../Core/Src/AML_Switch.c:22:6:AML_ReadAll_BitSwitch	2
+../Core/Src/AML_Switch.c:30:6:AML_Read_BitSwitch	1
+../Core/Src/AML_Switch.c:38:6:AML_ReadAll_Button	2
+../Core/Src/AML_Switch.c:46:6:AML_Read_Button	1
+../Core/Src/AML_Switch.c:51:6:HAL_GPIO_EXTI_Callback	3
